@@ -11,7 +11,7 @@
 ## Operating Instructions
 
 ### Regular Boot
-Upon power-on, both LEDs flash simultaneously 2x. Following a short pause, the LEDs will flash extremely fast as soon as an SBUS signal is detected.
+Upon power-on, both LEDs flash simultaneously 2x. Following a short pause, the LEDs will flash extremely fast for a short time as soon as an SBUS signal is detected.
 
 Immediately after, the assigned channels are output as PPM signals to the servos, which should now react to the programmed channels on the radio.
 
@@ -81,7 +81,7 @@ If the button is not pressed at all during the setup routine and all 16 channels
 ## Bedienungsanleitung
 
 ### Regulärer Start
-Die LEDs blinken bei Start 2x kurz gleichzeitig. Dann kommt eine Pause und sobald SBUS erkannt wird blitzen die LEDs kurz ganz schnell auf.
+Die LEDs blinken bei Start 2x kurz gleichzeitig. Dann kommt eine Pause und sobald SBUS erkannt wird blitzen die LEDs für kurze Zeit ganz schnell auf.
 
 Direkt danach geht der jeweils zugeordnete Kanal als PPM Signal an die Servos und sollten auf die programmierten Kanäle an der Fernsteuerung reagieren.
 
